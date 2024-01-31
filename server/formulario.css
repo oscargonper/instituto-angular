@@ -1,0 +1,16 @@
+input::placeholder {
+    color: grey;
+}
+
+input:required:placeholder-shown {
+    border: 1px solid black;
+}
+
+input:required:not(:placeholder-shown):valid {
+    border: 1px solid green;
+    color: black;
+    box-shadow: 0 0 0 1px;
+}
+
+.is-invalid{border-color: red;
+    outline: 0 none;}

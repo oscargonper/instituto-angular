@@ -1,0 +1,11 @@
+{"Informatica": [
+        {
+            "id": "DAW",
+            "nombre": "Desarrollo de aplicaciones Web"
+        },
+        {
+            "id": "ASI",
+            "nombre": "Administración de sistemas Informáticos"
+        }
+    ]
+}
