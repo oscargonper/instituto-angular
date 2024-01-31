@@ -31,9 +31,7 @@ export class AppComponent {
       
     }
     
-    test(){
-      console.log(this.ciclos.values());
-    }
+  
 
 
 }
